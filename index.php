@@ -5,7 +5,7 @@
 <!-- Begin page content -->
 <main class="flex-shrink-0">
   <div class="container">
-    <h1 class="mt-5">Dalal Ak Diam</h1>
+    <h1 class="mt-5">Bienvenue Chez Madina Clinique</h1>
   </div>
 </main>
 
